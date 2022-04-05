@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "department": "SS",
+    "name": "SS-red",
+    "price": "19.99",
+    "size": "2/99"
+  },
+  {
+    "id": "2",
+    "department": "SS",
+    "name": "ss-diamond",
+    "price": "$19.99",
+    "size": "2/99"
+  },
+  {
+    "id": "3",
+    "department": "SS",
+    "name": "ss-grape",
+    "price": "18.99",
+    "size": "2/99"
+  },
+  {
+    "id": "4",
+    "department": "CG",
+    "name": "Marlboro",
+    "price": "$50.99",
+    "size": "KS"
+  },
+  {
+    "id": "5",
+    "department": "CG`",
+    "name": "LD",
+    "price": "50.99",
+    "size": "KS"
+  }
+]

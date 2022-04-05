@@ -1,0 +1,12 @@
+.option {
+  position: relative;
+  z-index: 1;
+  width: 180px;
+  border: 1px solid grey;
+  padding: 1px;
+}
+
+.option-container {
+  position: absolute;
+  color: blue;
+}

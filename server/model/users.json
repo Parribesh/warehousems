@@ -1,0 +1,22 @@
+[
+  {
+    "username": "Test123",
+    "password": "$2b$10$JFAKelyN0vc5MWmsc9nC..TpLKHymLmUSBEyEJx6GwMV/WUxC7gye",
+    "email": "neuppari@gmail.com"
+  },
+  {
+    "username": "Hello",
+    "password": "$2b$10$bMtA4HjB2xoKHoWYpjlpa.g.u/1BVLWd.w31Ibc3oCMT/NLMJG6FC",
+    "email": "neuppari@gmail.com"
+  },
+  {
+    "username": "Meronepal",
+    "password": "$2b$10$n4FSeKz7uMs4u2lFFZONdO9i7wQd0/ACxeFVdcrgCEFfl.05IKvBG",
+    "email": "neuppari@gmail.com"
+  },
+  {
+    "username": "MeroDesh",
+    "password": "$2b$10$fRrMINnHeOQhq76GWFQmVu4AGDz73NIMcncbHKzAHDQrF.z37jl3.",
+    "email": "neuppari@gmail.com"
+  }
+]

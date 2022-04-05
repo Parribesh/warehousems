@@ -1,0 +1,38 @@
+.errMsg {
+  color: black;
+}
+.valid {
+  color: green;
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+}
+.invalid {
+  color: red;
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+}
+.hide {
+  visibility: hidden;
+  color: red;
+  width: 0;
+  height: 0;
+}
+.instructions {
+  text-align: start;
+  color: white;
+  margin-top: 5px;
+  padding: 5px;
+  font-size: small;
+  font-weight: 100;
+}
+.offscreen {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
+.user-info {
+  background-color: rgb(70, 68, 68);
+  border-radius: 5px;
+}
